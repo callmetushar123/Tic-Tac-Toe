@@ -125,7 +125,7 @@ class _GameState extends State<Game> {
           (pos[0][0] == "player1" &&
               pos[1][0] == "player1" &&
               pos[2][0] == "player1") ||
-          (pos[0][2] == "player1" &&
+          (pos[0][1] == "player1" &&
               pos[1][1] == "player1" &&
               pos[2][1] == "player1") ||
           (pos[0][2] == "player1" &&
